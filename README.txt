@@ -3,6 +3,7 @@ vtiger CRM 4.2 Patch 2
 Sep 15, 2005
 ####################################################
 
+TEST
 We are pleased to announce the consolidated patch for vtiger CRM 4.2. This release includes many code contributions from vtiger community and bug fixes!
 
 ******************************************
